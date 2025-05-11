@@ -5,7 +5,7 @@ import Right from './icons/right'
 import Menu from './Menu'
 import SectionHeaders from '../app/Sectionheader'
 
-const HomemEnu = () => {
+const Homemenu = () => {
   return (
     <section>
     <div className='absolute left-0 right-0 '>
@@ -32,7 +32,7 @@ const HomemEnu = () => {
   )
 }
 
-export default HomemEnu
+export default Homemenu
 
 
 
