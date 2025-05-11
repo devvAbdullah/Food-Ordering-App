@@ -1,8 +1,8 @@
 import Image from "next/image";
 import Header from '../Components/Header'
 import SectionHeaders from "../app/Sectionheader";
-import Hero from "../Components/Hero";
-import Homemenu from "../Components/Homemenu";
+import Hero from "../Components/Hero.jsx";
+import Homemenu from "../Components/Homemenu.jsx";
 export default function Home() {
   return (
     <>
