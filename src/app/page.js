@@ -1,15 +1,11 @@
-import Image from "next/image";
-import Header from '../Components/Header'
 import SectionHeaders from "../app/Sectionheader";
-import Hero from "../components/Hero";
-import Homemenu from "../components/Homemenu";
+
 
 export default function Home() {
   return (
     <>
       
-    <Hero/>
-    <Homemenu/>
+    
      
       <section className="text-center my-16">
         <SectionHeaders SubHeader={'Our Story'} MainHeader={'About Us'} />
